@@ -2,7 +2,7 @@
 
 ![Power BI](https://img.shields.org/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.org/badge/DAX-00758F?style=for-the-badge&logo=data&logoColor=white)
-![Data Modeling](https://img.shields.org/badge/Star_Schema-4169E1?style=for-the-badge)
+![Data Modeling](https://img.shields.org/badge/Star_Schema-4169E1?style=for-the-badge) 
 
 An end-to-end, multi-page executive ITSM analytics solution analysing **2,800 ticket records** to give leadership immediate operational visibility into service throughput, SLA delivery, and end-user CSAT trends.
 
